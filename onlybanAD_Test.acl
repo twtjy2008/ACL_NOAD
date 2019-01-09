@@ -356,9 +356,7 @@
 (^|\.)tongji\.home\.soufun\.com$
 
 # Google
-(^|\.)admob\.com$
-(^|\.)ads\.gmodules\.com$
-(^|\.)ads\.google\.com$
+
 
 # JD
 (^|\.)(c-nfa|img-x|jrclick|jzt|policy)\.jd\.com$
