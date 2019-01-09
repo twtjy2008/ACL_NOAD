@@ -355,7 +355,16 @@
 (^|\.)mshow\.fang\.com$
 (^|\.)tongji\.home\.soufun\.com$
 
-
+# Google
+(^|\.)admob\.com$
+(^|\.)ads\.gmodules\.com$
+(^|\.)ads\.google\.com$
+(^|\.)adservice\.google\.com$
+(^|\.)afd\.l\.google\.com$
+(^|\.)badad\.googleplex\.com$
+(^|\.)csi\.gstatic\.com$
+(^|\.)doubleclick(\.com|\.net)$
+(^|\.)google-analytics\.com$
 
 # JD
 (^|\.)(c-nfa|img-x|jrclick|jzt|policy)\.jd\.com$
